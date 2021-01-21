@@ -48,8 +48,9 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#7289da",
-    "background_color": "#7289da",
+    "theme_color": "#7289DA",
+    "background_color": "#7289DA",
     "start_url": "https://discafe.xyz",
-    "display": "standalone"
+    "display": "standalone",
+    "scope": "/"
 }
